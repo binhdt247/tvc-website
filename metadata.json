@@ -1,0 +1,6 @@
+{
+  "name": "Cơ Điện & Nội Thất TVC",
+  "description": "Website giới thiệu dịch vụ cơ điện, cải tạo sửa chữa nhà cửa và thiết kế thi công nội thất của TVC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
